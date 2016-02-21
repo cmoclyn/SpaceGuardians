@@ -1,3 +1,3 @@
-<!DOCTYPE html>
-<html>
-</html>
+<?php
+require 'includes/debut.php';
+?>
